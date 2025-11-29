@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "portfolio-cv"
+version = "0.1.0"
+description = "Terminal-themed PDF CV/Portfolio generator"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+reportlab = "^4.0.0"
+
+[tool.poetry.scripts]
+generate-cv = "generate_pdf:create_terminal_cv"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

@@ -1,0 +1,145 @@
+{
+  "summary": {
+    "name": "BAMGBOYE OLUWATOSIN ODUNLAMI",
+    "role": "Backend | DevOps Engineer",
+    "location": "Nigeria",
+    "email": "horduntech@gmail.com",
+    "website": "www.hordun.tech",
+    "bio": "Experienced Backend and DevOps Engineer with 5 years of expertise in building scalable applications, implementing CI/CD pipelines, and managing cloud infrastructure. Proficient in Python, Golang, API development, containerization technologies, and cloud platforms. Adept at collaborating with cross-functional teams to deliver high-quality software solutions."
+  },
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Golang",
+      "Rust",
+      "PHP",
+      "JavaScript",
+      "C"
+    ],
+    "frameworks_libraries": [
+      "FastAPI",
+      "Flask",
+      "Django",
+      "Tenserflow",
+      "PyTorch",
+      "Laravel",
+      "Gin",
+      "Axum",
+      "Express.js"
+    ],
+    "tools_technologies": [
+      "Docker",
+      "Kubernetes",
+      "Cloud Platforms",
+      "Bare Metal Servers",
+      "GitHub Actions",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Minio",
+      "Git",
+      "Linux",
+      "Nvim",
+      "Sentry",
+      "Elastic Stack",
+      "Kafka",
+      "Terraform",
+      "Helm",
+      "Haproxy",
+      "Atlasgo",
+      "etc..."
+    ]
+  },
+  "work_experience": [
+    {
+      "period": "2024 - Present",
+      "title": "Backend | DevOps Engineer",
+      "company": "AIQ",
+      "responsibilities": [
+        "Designed and developed scalable backend systems with RESTful architectures, geospatial workflows, and distributed components",
+        "Implemented CI/CD pipelines, containerized deployments, and performance-optimized infrastructure with strong networking principles"
+      ]
+    },
+    {
+      "period": "2024 - 2025",
+      "title": "Backend Developer",
+      "company": "Trends.io",
+      "responsibilities": [
+        "Developed backend components for a social media-style platform with real-time content and user engagement features" 
+      ]
+    },
+    {
+      "period": "2023",
+      "title": "Backend Engineer",
+      "company": "SkillsForge",
+      "responsibilities": [
+        "Developed backend systems for a school management platform, including student enrollment, attendance tracking, and grade management modules"
+      ]
+    },
+    {
+      "period": "2020 - 2022",
+      "title": "Freelance Backend Developer",
+      "company": "Fiverr",
+      "responsibilities": [
+        "Developed backend solutions for diverse client projects across various industries",
+        "Specialized in building RESTful APIs, integrating third-party services, and optimizing database performance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "period": "2023 - 2024",
+      "degree": "Software Engineering",
+      "institution": "HOLBERTON SCHOOL",
+      "details": [
+        "Comprehensive software engineering program covering full-stack development"
+      ]
+    },
+    {
+      "period": "2013 - 2019",
+      "degree": "Higher National Diploma in Accountancy",
+      "institution": "MOSHOOD ABIOLA POLYTECHNIC",
+      "details": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "DevCommit",
+      "tech": "Python, API, GitHub Actions, Terminal",
+      "description": "A command-line AI tool for autocommits.",
+      "link": "pypi.org/project/devcommit/"
+    },
+    {
+      "name": "BareMetal Pipeline",
+      "tech": "Python, GitHub Actions, SSH, Docker, Kubernetes",
+      "description": "A comprehensive GitHub Action for deploying applications to baremetal servers via SSH. This action supports three deployment modes: baremetal (direct to server), Docker, and Kubernetes.",
+      "link": "https://github.com/marketplace/actions/baremetal-pipeline"
+    },
+    {
+      "name": "Oguild",
+      "tech": "Python, Golang, packaging",
+      "description": "A comprehensive multi-language utilities pack providing essential tools and helper functions for modern software development.",
+      "link": "pypi.org/project/oguild/"
+    },
+    {
+      "name": "Eduhub",
+      "tech": "Python, Django, Celery, Redis, PostgreSQL",
+      "description": "EduHub is a modern, feature-rich Learning Management System (LMS) built with Django that provides comprehensive educational tools for both teachers and students",
+      "link": "https://github.com/Hordunlarmy/eduhub"
+    },
+    {
+      "name": "StealthPortal",
+      "tech": "Django, FastAPI, Flask, Docker, Websockets",
+      "description": " a web-based communication platform that enables users to securely connect and exchange messages through a simple and intuitive interface",
+      "link": "https://github.com/Hordunlarmy/StealthPorta"
+    }
+  ],
+  "contact": {
+    "email": "horduntech@gmail.com",
+    "github": "https://github.com/Hordunlarmy",
+    "linkedin": "https://www.linkedin.com/in/hordunlarmy/",
+    "twitter": "https://x.com/HordunTech",
+    "website": "www.hordun.tech",
+    "phone": "+2348146153153"
+  }
+}
